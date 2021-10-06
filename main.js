@@ -1,8 +1,9 @@
-import { App, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
+const obsidian = require('obsidian');
 
-export default class GCalPlugin extends Plugin {
+export default class GCalPlugin extends obsidian.Plugin {
   
   async onload() {
     console.log("hello world!")
   }
+
 }
