@@ -1,0 +1,8 @@
+{
+  "plugin": "obsidian-gcal",
+  "name": "Obsidian GCal",
+  "author": "ted-burns",
+  "minAppVersion": "0.12.15",
+  "description": "Google calendar integration",
+  "isDesktopOnly": true
+}
