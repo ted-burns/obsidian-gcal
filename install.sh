@@ -1,3 +1,4 @@
 #!/bin/bash
 
-cp -R . ~/.obsidian/plugins/obsidian-gcal
+mkdir -p ~/.obsidian/plugins/obsidian-gcal
+cp main.js manifest.json ~/.obsidian/plugins/obsidian-gcal
